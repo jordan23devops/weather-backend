@@ -1,5 +1,4 @@
 # Use the official lightweight Python image
-#FROM docker-flask-redis-web:latest
 FROM python:3.11-slim
 
 # Set the working directory
